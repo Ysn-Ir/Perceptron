@@ -135,4 +135,3 @@ This project is open-source under the MIT License.
 plt.savefig("plot.png")
 ````
 
-Let me know if you'd like a version that includes interactive GUI buttons or animation of the learning process.
